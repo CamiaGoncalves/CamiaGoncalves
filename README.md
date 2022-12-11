@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CamiaGoncalves
 - 👀 I’m interested in programing and network
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning programing
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
